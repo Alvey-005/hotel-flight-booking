@@ -1,0 +1,199 @@
+[
+    {
+      "hotel_id":1,
+      "hotel_name": "Luxury Haven Hotel",
+      "location": "1234 Beachfront Avenue, Seaside Paradise",
+      "description": "Experience the pinnacle of luxury at our seaside hotel.",
+      "price": 2000,
+      "facilities": {
+        "wifi": true,
+        "business": true,
+        "laundry": true,
+        "smoke_free": true,
+        "eco_friendly": true
+      }
+    },
+    {
+      "hotel_id":2,
+      "hotel_name": "Mountain View Lodge",
+      "location": "5678 Pinecone Trail, Scenic Peaks",
+      "description": "A cozy lodge with breathtaking mountain views.",
+      "price": 1500,
+      "facilities": {
+        "wifi": true,
+        "business": false,
+        "laundry": true,
+        "smoke_free": true,
+        "eco_friendly": false
+      }
+    },
+    {
+      "hotel_id":3,
+      "hotel_name": "Harbor Lights Resort",
+      "location": "7899 Harborview Road, Coastal Harbor",
+      "description": "Relax and unwind with serene harbor views.",
+      "price": 1800,
+      "facilities": {
+        "wifi": true,
+        "business": true,
+        "laundry": true,
+        "smoke_free": true,
+        "eco_friendly": false
+      }
+    },
+    {
+      "hotel_id":14,
+      "hotel_name": "Tranquil Woods Inn",
+      "location": "1010 Forest Retreat Lane, Peaceful Pines",
+      "description": "Escape to the tranquility of the forest at our inn.",
+      "price": 1200,
+      "facilities": {
+        "wifi": true,
+        "business": false,
+        "laundry": true,
+        "smoke_free": true,
+        "eco_friendly": true
+      }
+    },
+    {
+      "hotel_id":4,
+      "hotel_name": "Riverfront Oasis Hotel",
+      "location": "2222 Riverside Drive, Riverside Haven",
+      "description": "Experience serenity by the river at our oasis.",
+      "price": 1600,
+      "facilities": {
+        "wifi": true,
+        "business": true,
+        "laundry": true,
+        "smoke_free": true,
+        "eco_friendly": true
+      }
+    },
+      {
+        "hotel_id":5,
+        "hotel_name": "Sunny Shores Resort",
+        "location": "3456 Sunshine Avenue, Beachfront Paradise",
+        "description": "Bask in the sun at our beachfront resort.",
+        "price": 2100,
+        "facilities": {
+          "wifi": true,
+          "business": true,
+          "laundry": true,
+          "smoke_free": false,
+          "eco_friendly": true
+        }
+      },
+      {
+        "hotel_id":6,
+        "hotel_name": "Alpine Retreat Lodge",
+        "location": "6789 Mountain Ridge Road, Alpine Bliss",
+        "description": "Discover tranquility in the heart of the mountains.",
+        "price": 1700,
+        "facilities": {
+          "wifi": true,
+          "business": false,
+          "laundry": true,
+          "smoke_free": true,
+          "eco_friendly": false
+        }
+      },
+      {
+        "hotel_id":7,
+        "hotel_name": "Bayview Serenity Hotel",
+        "location": "8901 Bayfront Lane, Bayview Haven",
+        "description": "Relax with stunning bay views at our hotel.",
+        "price": 1900,
+        "facilities": {
+          "wifi": true,
+          "business": true,
+          "laundry": false,
+          "smoke_free": true,
+          "eco_friendly": false
+        }
+      },
+      {
+        "hotel_id":8,
+        "hotel_name": "Forest Haven Inn",
+        "location": "1212 Woodland Trail, Enchanted Forest",
+        "description": "Find solace in the midst of a magical forest at our inn.",
+        "price": 1300,
+        "facilities": {
+          "wifi": true,
+          "business": false,
+          "laundry": true,
+          "smoke_free": true,
+          "eco_friendly": true
+        }
+      },
+      {
+        "hotel_id":9,
+        "hotel_name": "Riverfront Bliss Resort",
+        "location": "2323 Riverfront Drive, Blissful Waterside",
+        "description": "Experience pure bliss by the river at our resort.",
+        "price": 1750,
+        "facilities": {
+          "wifi": true,
+          "business": true,
+          "laundry": true,
+          "smoke_free": true,
+          "eco_friendly": true
+        }
+      },
+        {
+          "hotel_id":10,
+          "hotel_name": "Seaside Paradise Resort",
+          "location": "4321 Beachfront Boulevard, Coastal Oasis",
+          "description": "Escape to paradise at our beachfront resort.",
+          "price": 2200,
+          "facilities": {
+            "wifi": true,
+            "business": true,
+            "laundry": true,
+            "smoke_free": true,
+            "eco_friendly": true
+          }
+        },
+        {      "hotel_id":11,
+          "hotel_name": "Mountain Vista Lodge",
+          "location": "8765 Mountain Heights Road, Tranquil Peaks",
+          "description": "Embrace the serenity of the mountains at our lodge.",
+          "price": 1650,
+          "facilities": {
+            "wifi": true,
+            "business": false,
+            "laundry": true,
+            "smoke_free": true,
+            "eco_friendly": false
+          }
+        },
+        {
+          "hotel_id":12,
+          "hotel_name": "Bay Breeze Hotel",
+          "location": "9876 Bayfront Avenue, Bayside Retreat",
+          "description": "Enjoy a refreshing bay breeze at our hotel.",
+          "price": 2000,
+          "facilities": {
+            "wifi": true,
+            "business": true,
+            "laundry": true,
+            "smoke_free": true,
+            "eco_friendly": false
+          }
+        },
+        {
+          "hotel_id":13,
+          "hotel_name": "Enchanted Woods Retreat",
+          "location": "3434 Woodland Lane, Mystical Forest",
+          "description": "Discover enchantment in the heart of the woods at our retreat.",
+          "price": 1400,
+          "facilities": {
+            "wifi": true,
+            "business": true,
+            "laundry": true,
+            "smoke_free": true,
+            "eco_friendly": false
+          }
+        }
+      ]
+      
+    
